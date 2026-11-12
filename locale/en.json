@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Project sounds",
+    "description": "Per-project sound cues for finished turns, pending approvals or questions, and failures (errors, quotas, context limits, blocked goals, failed background jobs), with optional repeats until the project is opened. Settings → Project sounds."
+  }
+}

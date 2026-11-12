@@ -1,0 +1,6 @@
+# Project sounds bundle layer.
+# The package carries one row so the Loader mounts it and the `dsh.client`
+# declaration in package.json makes the browser half load at page start.
+- insert:
+    - id: project-sounds
+      name: 'dsh-plugin-project-sounds'
